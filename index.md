@@ -8,3 +8,8 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Start modeling
+- [ ] Learn this new language stuff
+- [ ] Start your new business
+- [ ] Get bored at work again
